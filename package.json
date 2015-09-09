@@ -1,0 +1,23 @@
+{
+  "name": "bleno-lock",
+  "version": "1.0.0",
+  "description": "Bluetooth Low Energy Lock",
+  "main": "lock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeBluetooth/bleno-lock.git"
+  },
+  "author": "Don Coleman <don.coleman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakeBluetooth/bleno-lock/issues"
+  },
+  "homepage": "https://github.com/MakeBluetooth/bleno-lock#readme",
+  "dependencies": {
+    "bleno": "^0.2.1",
+    "onoff": "^1.0.2"
+  }
+}
